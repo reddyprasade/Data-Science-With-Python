@@ -41,12 +41,11 @@ Data science professionals are rewarded for their highly technical skill set wit
 
 Below are the average base salaries for the following positions: 7
 
-`Data analyst:` $65,470
-
-`Data scientist:` $120,931
-
-`Senior data scientist:` $141,257
-
-`Data engineer:` $137,776
+|Positions|Salaries|
+|--------|---------|
+|`Data analyst:`|$65,470|
+|`Data scientist:`| $120,931|
+|`Senior data scientist:`| $141,257|
+|`Data engineer:`| $137,776|
 
 Gaining specialized skills within the data science field can distinguish data scientists even further. For example, machine learning experts utilize high-level programming skills to create algorithms that continuously gather data and automatically adjust their function to be more effective.
