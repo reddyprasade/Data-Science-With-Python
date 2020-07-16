@@ -49,3 +49,13 @@ Below are the average base salaries for the following positions: 7
 |`Data engineer:`| $137,776|
 
 Gaining specialized skills within the data science field can distinguish data scientists even further. For example, machine learning experts utilize high-level programming skills to create algorithms that continuously gather data and automatically adjust their function to be more effective.
+
+---
+# References To Learn and Develop your Self:
+* [Python](https://github.com/reddyprasade/Python-Basic-For-All-3.x)
+* [Data Science With Python ](https://github.com/reddyprasade/Data-Science-With-Python)
+* [Machine Learning with Python](https://github.com/reddyprasade/Machine-Learning-with-Scikit-Learn-Python-3.x)
+* [Deep learning With python](https://github.com/reddyprasade/Deep-Learning)
+* [Data Visulization](https://github.com/reddyprasade/Data-Science-With-Python/tree/master/Data%20Visualization)
+* [Life Cycle of Data Science](https://github.com/reddyprasade/Data-Science-With-Python/tree/master/Life%20Cycle%20Process%20of%20Data%20Science%20In%20Real%20World%20project)
+* [Statistics](https://github.com/reddyprasade/Data-Science-With-Python/tree/master/Statistics)
